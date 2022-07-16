@@ -9,6 +9,7 @@
      images, paragraphs, and etc. to become code in a syntax format. Also 
      chose a picture of a cat and its temperment for the project hehe.
    </p>
+  <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Screen%20Shot%202022-07-16%20at%205.02.59%20PM.png?raw=true" alt="CatPhotoApp"/>
   <p>
      Went through an interesting time trying to troubleshoot a broken link in my 
      repository. After countless tries and misplacing my link musltiple times, I
