@@ -13,7 +13,7 @@
  <br />
   <p>
      Went through an interesting time trying to troubleshoot a broken link in my 
-     repository. After countless tries and misplacing my link musltiple times, I
+     repository. After countless tries and misplacing my link multiple times, I
      researched a solution via Google. It was here that I discovered I needed to 
      add an onlick method to redirect my repository link. Thank goodness it works.
      #jobwelldone
