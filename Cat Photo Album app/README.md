@@ -6,7 +6,7 @@
      and changed its text to CatPhotoApp. Before learning, I used to refer 
      to HTML tags as "alligators" (like we learned in math). Now, I understand 
      they are in fact HTML tags that allow headings, ordered/unordered lists,
-     images, paragraphs, and etc. to become code in a syntax format. Also 
+     images, paragraphs, and etc. to become coded in a syntax format. Also 
      chose a picture of a cat and its temperament for the project hehe.
    </p>
   <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Screen%20Shot%202022-07-16%20at%205.02.59%20PM.png?raw=true" alt="CatPhotoApp"/>
