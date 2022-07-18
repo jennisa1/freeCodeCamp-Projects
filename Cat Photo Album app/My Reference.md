@@ -3,7 +3,8 @@
    <h1> Creating Folder </h1>
    <p> 
      Open main folder and type in file name with a '/' at end. Press enter. 
-     This will indicate this is a FOLDER and not a DOCUMENT. #mindblown
+     Write placeholder file name (i.e. test). Then jump down. This will 
+     indicate this is a FOLDER and not a DOCUMENT. #mindblown
   </p>
   <h3>
    To insert an image in folder: </h3>
