@@ -15,7 +15,6 @@
      #neednotes #micdrop
   </p>
   <h2> Creating Document</h2>
- <br />
   <p>
      Open subfolder folder and name using '.md' at end of document name. 
     '.md' = markdown. #wow
