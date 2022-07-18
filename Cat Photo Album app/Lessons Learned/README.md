@@ -9,7 +9,7 @@
      images, paragraphs, and etc. to be coded in a syntax format. Also 
      chose a picture of a cat and its temperament for the project hehe.
    </p>
-  <img src=""/>
+  <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%201.png?raw=true" alt="step1"/>
  <br />
   <p>
      Went through an interesting time trying to troubleshoot a broken link in my 
