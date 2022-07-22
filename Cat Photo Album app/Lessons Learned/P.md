@@ -3,7 +3,7 @@
     <h1>Lessons Learned--Paragraph Element</h1>
     <p>
       Learned how to create a paragraph element under headline 2.
-      Directions stated the paragraph element needed the text:
+      Directions stated that paragraph element needed the text:
       'Click here to view more cat photos.' In order to do create
       the action needed for this text, we must learn how to open 
       and close the paragraph element. To open the paragraph 
