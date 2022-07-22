@@ -7,7 +7,7 @@
       'Click here to view more cat photos.' In order to do create
       the action needed for this text, we must learn how to open 
       and close the paragraph element. To open the paragraph 
-      element, type html tags with letter 'p' inseted in the 
+      element, type html tags with letter 'p' inserted in the 
       middle. Then enter the 'click here...photos' text directly 
       after the p element. Once the text has been entered, we 
       must close the paragraph element with a '/p' inserted
