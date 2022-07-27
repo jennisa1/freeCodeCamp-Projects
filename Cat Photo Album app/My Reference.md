@@ -15,7 +15,7 @@
      and insert image from computer into folder. Done. 
      #neednotes #micdrop
   </p>
-  <h2> Creating Document</h2>
+  <h1> Creating Document</h1>
   <p>
      Open subfolder folder and name using '.md' at end of document name. 
     '.md' = markdown. #wow
