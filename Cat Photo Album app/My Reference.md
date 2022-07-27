@@ -6,8 +6,8 @@
      Write placeholder file name (i.e. test). Then jump down. This will 
      indicate this is a FOLDER and not a DOCUMENT. #mindblown
   </p>
-  <h3>
-   To insert an image in folder: </h3>
+  <h2>
+   To insert an image in folder: </h2>
      <p> Same as above step with exception that previously saved image 'file'
      (actually a document) in Ghub can be screenshot. Once screenshot is 
      taken, return to Ghub and copy image address. Delete previously 
