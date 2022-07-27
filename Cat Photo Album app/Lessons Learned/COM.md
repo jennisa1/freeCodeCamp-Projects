@@ -16,6 +16,6 @@
     </p>
     <h2>Step 4: Commenting Code</h2>
     <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%204%20Code.png?raw=true" alt="Step 4 Code"> 
-  #ToDo #learning #exclamationPoint #dash
+  #ToDo #Commenting #learning #exclamationPoint #dash
   </body>
 </html>
