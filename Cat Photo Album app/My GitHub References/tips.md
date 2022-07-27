@@ -28,7 +28,8 @@
    image in Lessons Learned, add the image source link of the desired
    image followed by the name of the image within the alt. For Learning
    Solutions, type the name of the file + dot html (with no slash) to
-   create a document. The only time a / is added is to create a folder. 
+   create a document. The only time a / follwoed by enter is added to 
+   create a folder. 
   </p>
   </body>
 </html>
