@@ -19,6 +19,19 @@
   <p>
      Open subfolder folder and name using '.md' at end of document name. 
     '.md' = markdown. #wow
+  <h1>Quick Reminder</h1>
+  <p>
+      Images:
+      - upload document
+      - copy image address
+      
+      Lessons Learned:
+      - caps lock abbreviated name + '.md' (no slash) 
+      - Insert images=<img src="#" alt="name of file">
+   
+      Learning Solutions:
+      - Create a Documen = name of file + '.html' (no slash) 
+   
   </p>
   </body>
 </html>
