@@ -21,17 +21,14 @@
     '.md' = markdown. #wow
   <h1>Quick Reminder</h1>
   <p>
-      Images:
-      - upload document
-      - copy image address
-      
-      Lessons Learned:
-      - caps lock abbreviated name + '.md' (no slash) 
-      - Insert images=<img src="#" alt="name of file">
-   
-      Learning Solutions:
-      - Create a Documen = name of file + '.html' (no slash) 
-   
+   For images, press 'upload document' to drop screenshots of work into 
+   image folder. Then, right click 'copy image address' to use image in 
+   lessons learned file. For Lessons Learned, type the name of the file
+   in abbreviated caps lock + markdown without any slashes. To insert an
+   image in Lessons Learned, add the image source link of the desired
+   image followed by the name of the image within the alt. For Learning
+   Solutions, type the name of the file + dot html (with no slash) to
+   create a document.  
   </p>
   </body>
 </html>
