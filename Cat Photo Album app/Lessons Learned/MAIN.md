@@ -2,7 +2,7 @@
   <body>
     <h1> Lessons Learned--Main Section</h1>
     <p>
-     Learned how to make a main section. order to have the HTML
+     Learned how to make a main section.In order to have the HTML
      be easier to read and simpler to identify what content
      area the web developer is working with. The main section
      of the CatPhotoApp starts behind the H1 element and ends
