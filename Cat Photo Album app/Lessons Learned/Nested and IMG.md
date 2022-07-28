@@ -16,7 +16,8 @@
      This was done by creating an image element with an open tag (otherwise
      known as a self-closing tag). Though an image has yet to appear
      under the paragraph, I inserted the open image tag beneath the p 
-     element. This is shown below.
+     element to indicate an image source link will be inserted there soon.
+     This is shown below.
     </p>
     <h3>IMG Element Code</h3>
   <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%207%20Code.png?raw=true" alt="Step 7 Code"> 
