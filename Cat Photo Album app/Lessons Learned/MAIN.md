@@ -8,7 +8,7 @@
      of the CatPhotoApp starts behind the H1 element and ends
      after the closing p element. The purpose of adding a
      main section allows for cleaner readability and SEO 
-     Search Engine Optimization) convenience. An image of the
+     (Search Engine Optimization) convenience. An image of the
      code is shown below.
     </p>
     <h2>Step 5: HTML5 Main Section Code</h2>
