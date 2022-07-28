@@ -13,7 +13,7 @@
   <h2>IMG Element</h2>
     <p>
      Learned how to incorporate an img element to my CatPhotoApp website.
-     This was done by creating an image element with an open tag (other-
+     This was done by creating an image element with an open tag (other
      wise known as a self-closing tag). Though an image has yet to appear
      under the paragraph, I inserted the open image tag beneath the p 
      element. This is shown below.
