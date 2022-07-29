@@ -8,7 +8,7 @@
       photos.' First, I removed the closing p element tag and words,
       'cat photos' (from the p element). The p element should now say
       'Click here to view more.' Second, I moved the 'a href' over to
-      the open p element. Third, I added HTML tags between the a href
+      the open p element. Third, I added HTML tags between the 'a href'
       link and closing anchor tag with the words, 'cat photos.' Why?
       Because only one 'cat photos' is needed to hyperlink it (and
       it's not the one in p element, I'll tell you 🤡). Lastly, add
