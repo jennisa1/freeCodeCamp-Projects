@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1>Lessons Learned--Link Text</h1>
+    <h1>Lessons Learned--Anchor Text</h1>
     <p>
       Learned how to add an anchor text in my anchor element. Specifically,
       the anchor text was 'cat photos.' This was added in order to
