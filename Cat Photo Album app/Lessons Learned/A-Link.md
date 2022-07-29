@@ -2,7 +2,7 @@
   <body>
     <h1>Lessons Learned--Anchor Link</h1>
     <p>
-      Wow...This part left me io a serious pickle. For this step, I was
+      Wow...This part left me in a serious pickle. For this step, I was
       instructed to take the anchor text and convert it into an anchor 
       link by nesting it in the p element 'Click here to view more cat
       photos.' First, I removed the closing p element tag and words,
