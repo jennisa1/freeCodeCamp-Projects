@@ -7,7 +7,7 @@
     </p>
    <h3>Nesting Section Element in Main</h3>
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%2016%20Code.png?raw=true" alt="Step 16 Code"> 
-     <h2>2nd Section H2 Elememt</h2>
+     <h2>2nd Section H2 Element</h2>
     <p>
       Added an H2 element between the second section element titlted "Cat Lists." This indicates more information will be featured the cat photo image on         the website.
     </p>
