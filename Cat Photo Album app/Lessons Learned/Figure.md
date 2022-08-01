@@ -27,6 +27,6 @@
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%2023%20Code.png?raw=true" alt="Step 23 Code"> 
    <h3>figcaption Output</h3>
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%2023%20Output.png?raw=true" alt="Step 23 Output"> 
-    #FigureElement #LasagnaPicMoved! #Nesting #
+    #FigureElement #LasagnaPicMoved! #Nesting #figcaption #NoNestingYay
   </body>
   </html>
