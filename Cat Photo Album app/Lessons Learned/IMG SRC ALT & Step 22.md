@@ -5,7 +5,7 @@
     <p>
       After my closed unordered list, I created an image source attribute with a link provided by freecodecamp. 
       Then, I added an alt attribute value with the following phrase: 'A slice of lasagna on a plate.' The
-      image source coupled with the alt attribute value lead the output of a picture of lasagna on my website.
+      image source coupled with the alt attribute value resulted in an output of a picture of lasagna on my website.
       This is seen below.
     </p>
    <h3>IMG SRC Alt: Code</h3>
