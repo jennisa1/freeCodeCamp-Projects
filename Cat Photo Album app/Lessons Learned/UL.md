@@ -2,7 +2,7 @@
   <body>
     <h1>Lessons Learned--Unordered List</h1>
     <p>
-      Created a UL under the H3 element 'Things cats love:' to create a bulleted list for the following items: cat nip, laser pointer, and lasagna.
+      Created an UL under the H3 element 'Things cats love:' to create a bulleted list for the following items: cat nip, laser pointer, and lasagna.
       Did this by creating HTML opening and closing tags for the UL element, then pressed enter. Added the list items using HTML opening and closing
       tags inserting the word 'li' within. 'Li' means list, and must be used within the UL element if a list is to be coded. The output features
       the H3 element title and an unordered bulleted list with three items. This is shown below. 
