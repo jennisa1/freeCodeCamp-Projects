@@ -22,6 +22,6 @@
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%2047%20Code.png?raw=true" alt="Step 47 Code"> 
      <h2>Step 43 Output</h2>
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%2047%20Output.png?raw=true" alt="Step 47 Output"> 
-    #RadioButton #Indoor #Radio #Button #DESELECT #
+    #RadioButton #Indoor #Radio #Button #DESELECT #tworadiobuttonswithsamenameattributeandvalue
   </body>
   </html>
