@@ -8,7 +8,8 @@
       label element. Then, in front of the type equals radio button, tab the radio button
       twice. Then voila--the output will now place the Indoor and Outdoor buttons in their
       own separate selection boxes. This is shown below.
-      
+       </p>
+    <p>
       Fun fact: Fieldstep elements are black-level elements b/c they appear on a new line! 
       #themoreyouknow
     </p>
