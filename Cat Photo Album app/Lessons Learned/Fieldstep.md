@@ -13,6 +13,6 @@
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%2049%20Code.png?raw=true" alt="Step 49 Code"> 
      <h2>Fieldstep Element Output</h2>
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cat%20Photo%20Album%20app/Images/Step%2049%20Output.png?raw=true" alt="Step 49 Output"> 
-#FieldstepElement #fieldstep #🌄👣
+#FieldstepElement #fieldstep #🌄👟
   </body>
   </html>
