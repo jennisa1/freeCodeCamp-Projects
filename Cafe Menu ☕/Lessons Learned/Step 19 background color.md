@@ -11,6 +11,7 @@
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cafe%20Menu%20%E2%98%95/Images/Step%2019%20Code.png?raw=true" alt="Step 19 Code"> 
      <h2>Background Color Output</h2>
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cafe%20Menu%20%E2%98%95/Images/Step%2019%20Output.png?raw=true" alt="Step 19 Output">
+    </br >
      <h2>Changed Color Code</h2>
    <img src="https://github.com/jennisa1/freeCodeCamp-Projects/blob/main/Cafe%20Menu%20%E2%98%95/Images/Step%2020%20Code.png?raw=true" alt="Step 20 Code" 
     <h2>Burlywood Color Output</h2> 
